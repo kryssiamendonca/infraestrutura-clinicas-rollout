@@ -4,8 +4,7 @@
 ---
 
 ## Visão geral
-Projeto de rollout de infraestrutura de TI realizado em rede de clínicas de saúde com 9 unidades.
-
+Projeto estratégico de rollout e implantação de infraestrutura de TI realizado em rede de clínicas de saúde com 9 unidades, com foco em continuidade assistencial, integração sistêmica e estabilização operacional durante go-live e pós-implantação.
 Atuação focada na implantação tecnológica e sustentação operacional durante a transição de ambiente, acessos e sistemas, garantindo continuidade da operação assistencial.
 
 ## Objetivo
