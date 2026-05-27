@@ -73,7 +73,7 @@ Planejar e acompanhar a implantação da infraestrutura tecnológica nas unidade
 - Estabilização do ambiente durante a virada de domínio e sistemas integrados, com acompanhamento assistido no pós-go-live.
 
 ## Resultados alcançados
-![Resultados Alcançados](./resultados-alcançados)
+![resultados-alcançados](./resultados-alcancados.png)
 
 ## Observação
 Projeto descrito com informações anonimizadas para preservar confidencialidade.
