@@ -1,6 +1,6 @@
 # Projeto de Infraestrutura de TI para Rede de Clínicas (9 unidades)
 
-![Capa do Projeto](./capa-projeto-infraestrutura-ti.png)
+![Capa do Projeto](./capa-projeto-infra.png)
 
 ---
 
