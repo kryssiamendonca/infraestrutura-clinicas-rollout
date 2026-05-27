@@ -47,5 +47,15 @@ Planejar e acompanhar a implantação da infraestrutura tecnológica nas unidade
 - Implantação de sistemas
 - Acompanhamento de projeto em saúde
 
+## Principais desafios
+
+- Padronização de acessos e permissões entre 9 unidades, garantindo consistência operacional e segurança da informação.
+
+- Continuidade da operação assistencial durante toda a implantação, minimizando impactos para equipes e pacientes.
+
+- Sincronização entre times técnicos, operação local e stakeholders envolvidos em cada etapa do rollout.
+
+- Estabilização do ambiente durante a virada de domínio e sistemas integrados, com acompanhamento assistido no pós-go-live.
+
 ## Observação
 Projeto descrito com informações anonimizadas para preservar confidencialidade.
