@@ -1,5 +1,9 @@
 # Projeto de Infraestrutura de TI para Rede de Clínicas (9 unidades)
 
+![Capa do Projeto](./capa-projeto-infraestrutura-ti.png)
+
+---
+
 ## Visão geral
 Projeto de rollout de infraestrutura de TI realizado em rede de clínicas de saúde com 9 unidades.
 
