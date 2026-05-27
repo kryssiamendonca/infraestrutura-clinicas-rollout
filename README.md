@@ -32,9 +32,11 @@ Planejar e acompanhar a implantação da infraestrutura tecnológica nas unidade
 - Gestão de checklist operacional
 - Acompanhamento da semana crítica de virada
 - Suporte pós-implantação até estabilização
+- 
+## Checklist Operacional e as principais entregas
+![Checklist - Principais entregas do Projeto](./Check-list-principais-entregas.png)
 
-![Fluxo do Projeto](./Check-list-principais-entregas.png)
-
+## Fluxo do Projeto
 ![Fluxo do Projeto](./FluxoG.png)
 
 ## Tecnologias e processos envolvidos
