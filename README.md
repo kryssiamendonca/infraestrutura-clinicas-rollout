@@ -33,16 +33,7 @@ Planejar e acompanhar a implantação da infraestrutura tecnológica nas unidade
 - Acompanhamento da semana crítica de virada
 - Suporte pós-implantação até estabilização
 
-## Principais entregas
-✅ rollout de 9 unidades
-
-✅ padronização de acessos e permissões
-
-✅ validação operacional antes do go-live
-
-✅ checklist estruturado de implantação
-
-✅ acompanhamento da operação assistida
+![Fluxo do Projeto](./Check-list-principais-entregas.png)
 
 ![Fluxo do Projeto](./FluxoG.png)
 
