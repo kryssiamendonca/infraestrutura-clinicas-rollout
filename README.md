@@ -39,26 +39,32 @@ Planejar e acompanhar a implantação da infraestrutura tecnológica nas unidade
 ## Fluxo do Projeto
 ![Fluxo do Projeto](./FluxoG.png)
 
-## Tecnologias e processos envolvidos
+## Tecnologias, sistemas e processos envolvidos
 
-- Infraestrutura de TI (redes, conectividade e ambiente operacional)
+### Infraestrutura e processos
+- Infraestrutura de TI
+- Gestão de rollout
+- Governança operacional
+- Gestão de acessos e permissões
+- Implantação de sistemas
+- Planejamento de go-live
+- Operação assistida e estabilização
+- Acompanhamento de projeto em saúde
 
-- Gestão de rollout e acompanhamento de implantação
+### Sistemas envolvidos
+- SAP / SAP S/4HANA
+- Tasy EMR
+- Tasy HTML
+- Caristem (exames e imagem)
 
-- Governança operacional em ambiente de saúde
-
-- Gestão de acessos, permissões e padronização entre unidades
-
-- Implantação e validação de sistemas integrados
-
-- Planejamento e execução de go-live
-
-- Operação assistida e estabilização pós-implantação
-
-- Acompanhamento de projeto com foco em continuidade assistencial
+### Contextos de atuação
+- Integração entre sistemas clínicos e administrativos
+- Controle de acesso por perfil de usuário
+- Validação operacional antes do go-live
+- Continuidade assistencial durante implantação
+- Suporte à virada de domínio e estabilização do ambiente
 
 ## Principais desafios
-
 - Padronização de acessos e permissões entre 9 unidades, garantindo consistência operacional e segurança da informação.
 
 - Continuidade da operação assistencial durante toda a implantação, minimizando impactos para equipes e pacientes.
