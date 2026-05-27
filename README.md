@@ -44,25 +44,7 @@ Planejar e acompanhar a implantação da infraestrutura tecnológica nas unidade
 
 ✅ acompanhamento da operação assistida
 
-## Fluxo macro do projeto
-
-Planejamento
-↓
-Infraestrutura de rede
-↓
-Usuários e permissões
-↓
-Integração de sistemas
-↓
-Testes
-↓
-Checklist final
-↓
-Go-live
-↓
-Operação assistida
-↓
-Virada de domínio e estabilização
+![Fluxo do Projeto](./FluxoG.png)
 
 ## Tecnologias e processos envolvidos
 - Infraestrutura de TI
