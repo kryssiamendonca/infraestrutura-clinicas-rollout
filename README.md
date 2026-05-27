@@ -40,12 +40,22 @@ Planejar e acompanhar a implantação da infraestrutura tecnológica nas unidade
 ![Fluxo do Projeto](./FluxoG.png)
 
 ## Tecnologias e processos envolvidos
-- Infraestrutura de TI
-- Gestão de rollout
-- Governança operacional
-- Gestão de acessos
-- Implantação de sistemas
-- Acompanhamento de projeto em saúde
+
+- Infraestrutura de TI (redes, conectividade e ambiente operacional)
+
+- Gestão de rollout e acompanhamento de implantação
+
+- Governança operacional em ambiente de saúde
+
+- Gestão de acessos, permissões e padronização entre unidades
+
+- Implantação e validação de sistemas integrados
+
+- Planejamento e execução de go-live
+
+- Operação assistida e estabilização pós-implantação
+
+- Acompanhamento de projeto com foco em continuidade assistencial
 
 ## Principais desafios
 
