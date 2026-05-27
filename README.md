@@ -1,4 +1,3 @@
-# Projeto de Infraestrutura de TI para Rede de Clínicas (9 unidades)
 
 ![Capa do Projeto](./capa-projeto-infraestrutura-clini.png)
 
