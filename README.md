@@ -21,24 +21,17 @@ Planejar e acompanhar a implantação da infraestrutura tecnológica nas unidade
 - Go-live por unidade
 - Operação assistida
 - Virada de domínio e sistema
-
-## Minha atuação
-- Coordenação das atividades de rollout
-- Organização do cronograma e acompanhamento por unidade
-- Alinhamento entre times técnicos e operação
-- Validação de acessos por usuário
-- Apoio em testes antes da entrada em produção
-- Gestão de checklist operacional
-- Acompanhamento da semana crítica de virada
-- Suporte pós-implantação até estabilização
   
-## Checklist Operacional e as principais entregas
-![Checklist - Principais entregas do Projeto](./Check-list-principais-entregas.png)
+## Principais desafios
+- Padronização de acessos e permissões entre 9 unidades, garantindo consistência operacional e segurança da informação.
 
-## Fluxo do Projeto
-![Fluxo do Projeto](./FluxoG.png)
+- Continuidade da operação assistencial durante toda a implantação, minimizando impactos para equipes e pacientes.
 
-## Tecnologias, sistemas e processos envolvidos
+- Sincronização entre times técnicos, operação local e stakeholders envolvidos em cada etapa do rollout.
+
+- Estabilização do ambiente durante a virada de domínio e sistemas integrados, com acompanhamento assistido no pós-go-live.
+
+  ## Tecnologias, sistemas e processos envolvidos
 
 ### Infraestrutura e processos
 - Infraestrutura de TI
@@ -63,17 +56,24 @@ Planejar e acompanhar a implantação da infraestrutura tecnológica nas unidade
 - Continuidade assistencial durante implantação
 - Suporte à virada de domínio e estabilização do ambiente
 
-## Principais desafios
-- Padronização de acessos e permissões entre 9 unidades, garantindo consistência operacional e segurança da informação.
-
-- Continuidade da operação assistencial durante toda a implantação, minimizando impactos para equipes e pacientes.
-
-- Sincronização entre times técnicos, operação local e stakeholders envolvidos em cada etapa do rollout.
-
-- Estabilização do ambiente durante a virada de domínio e sistemas integrados, com acompanhamento assistido no pós-go-live.
-
+## Minha atuação
+- Coordenação das atividades de rollout
+- Organização do cronograma e acompanhamento por unidade
+- Alinhamento entre times técnicos e operação
+- Validação de acessos por usuário
+- Apoio em testes antes da entrada em produção
+- Gestão de checklist operacional
+- Acompanhamento da semana crítica de virada
+- Suporte pós-implantação até estabilização
+  
 ## Resultados alcançados
 ![resultados-alcançados](./resultados-alcancados.png)
+
+## Fluxo do Projeto
+![Fluxo do Projeto](./FluxoG.png)
+
+  ## Checklist Operacional e as principais entregas
+![Checklist - Principais entregas do Projeto](./Check-list-principais-entregas.png)
 
 ## Observação
 Projeto descrito com informações anonimizadas para preservar confidencialidade.
